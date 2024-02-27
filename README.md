@@ -1,4 +1,6 @@
 # OSGI_Basic
+![OSGi_Logo](https://github.com/Navindu-Praveen/OSGI_Basic/assets/89752602/0627c3db-ca0d-4423-aefb-755d365552e4)
+
 Bundles:
 
 In OSGi, a bundle is the fundamental unit of deployment and modularity. It encapsulates Java classes, resources, and metadata. A bundle can be dynamically installed, started, stopped, updated, and uninstalled.
@@ -6,6 +8,7 @@ OSGi Framework:
 
 The OSGi framework is the runtime environment that manages the lifecycle of bundles. It provides the necessary infrastructure for loading, starting, stopping, and uninstalling bundles. Popular implementations include Apache Felix and Eclipse Equinox.
 Activator:
+![download](https://github.com/Navindu-Praveen/OSGI_Basic/assets/89752602/78f5c5f6-e498-44f9-9a2b-a0b2faff92d3)
 
 A bundle may have an activator class, which implements the BundleActivator interface. The activator is notified when the bundle is started or stopped, allowing it to perform initialization and cleanup tasks.
 Services:
