@@ -1,4 +1,4 @@
-package osgi_servicepublisher;
+package com.mtit.service;
 
 public interface ServicePublish {
 	public String publishService();
